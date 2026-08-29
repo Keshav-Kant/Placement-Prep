@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Keshav-Kant/Placement-Prep/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0242-valid-anagram) |
 ## Sorting
