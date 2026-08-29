@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,8 +30,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
