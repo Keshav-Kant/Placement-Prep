@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Keshav-Kant/Placement-Prep/tree/master/1929-concatenation-of-array) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Keshav-Kant/Placement-Prep/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
