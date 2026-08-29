@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
