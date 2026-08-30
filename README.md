@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Keshav-Kant/Placement-Prep/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0219-contains-duplicate-ii) |
+| [0682-baseball-game](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Keshav-Kant/Placement-Prep/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
