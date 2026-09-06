@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0219-contains-duplicate-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Keshav-Kant/Placement-Prep/tree/master/1768-merge-strings-alternately) |
