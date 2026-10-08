@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0704-binary-search) |
 ## Trie
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Keshav-Kant/Placement-Prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
